@@ -10,4 +10,4 @@ Revisão dos comandos
 - git fetch //Faz download dos arquivos do repo remoto para o local 
 - git diff //Vê a diferença dos commits
 	git diff HEAD~1 //com relação ao ultimo commit
-	
+- git clone <URL> //baixa um repositório já existente e com o remote já configurado 
