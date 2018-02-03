@@ -1,0 +1,10 @@
+Revisão dos comandos 
+
+- git status //Mostra como é o status do seu repo com relação ao remoto
+- git log 
+- git add //adiciona o arquivo para ser commitado 
+	git add .
+	git add <filename>
+- git commit //adiciona um commit à adição 
+- git push //Faz upload dos arquivos locais para o repo remoto
+- git fetch //Faz download dos arquivos do repo remoto para o local 
